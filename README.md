@@ -1,7 +1,7 @@
 # 👋 Hola, soy Emiliano Cortinas  
 
-💻 **Programador Jr. en el área de Manufactura TI - Viakable**  
-Con más de **3 años de experiencia** (más 1 año como practicante en la misma área), me desempeño en el desarrollo de soluciones tecnológicas enfocadas en la práctica y la mejora continua dentro del entorno de manufactura.  
+💻 **Programador Jr. (Manufactura TI - Viakable) **  
+Con más de **4 años de experiencia**, me desempeño en el desarrollo de soluciones tecnológicas enfocadas en la práctica y la mejora dentro del entorno / procesos de manufactura, tal como automatizaciones de procesos, optimizacion de calculos, imprmentación de soluciones con alto grado de complejidad, desarrollo y manejo de escalabilidad de proyectos.  
 
 ---
 
@@ -16,48 +16,52 @@ Con más de **3 años de experiencia** (más 1 año como practicante en la misma
 ## 🛠️ Lenguajes y Tecnologías que manejo
 
 ### 🌐 Frontend
-- HTML, CSS, JavaScript  
-- Angular, Bootstrap  
+- HTML, CSS, JavaScript, JSON  
+- Angular, Vue.js, Bootstrap, WebSpeed
 
 ### ⚙️ Backend
-- Node.js  
-- C#, .NET  
-- Progress 4GL, WebSpeed  
+- Node.js, Flask  
+- C#, .NET, Java, Python 
+- Progress 4GL  
 
 ### 📱 Móvil
 - Java  
 - Kotlin  
-- Desarrollo de aplicaciones Android  
+- Swift
 
 ### 🗄️ Bases de Datos
 - SQL  
-- MySQL  
+- Progress 4GL  
 
 ### 🖥️ Otros
-- Python  
-- Linux  
+- Windows 
+- Linux
+- Postman  
 - Git & GitHub  
 
 ---
 
 ## 📊 Experiencia
-- **Viakable (2019 - Actualidad)**  
-  - 3 años como Programador Jr.  
-  - 1 año como practicante en el área de Manufactura TI.  
-
+- **Viakable S.A. de C.V. (Feb 2021 - Feb 2022)**  
+  - Practicante en el área de Manufactura TI. 
+- **Narancia Software S. de R.L. de C.V.(Feb 2022 - Sep 2022)**  
+  - Software Developer Jr.  
+- **Viakable S.A. de C.V. (Sep 2022 - Actualidad)**  
+  - 2 Años Profesionista en Desarrollo.  
+  - 1 Año como Programador Jr.  
 ---
 
 ## 📬 Conecta conmigo  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/carlos-emiliano-cortinas-marin/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-contact-green?logo=imessage&logoColor=green"/>
   </a>
-  <a href="mailto:tuemail@correo.com">
-    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:emilianocortinas@hotmail.com">
+    <img src="https://img.shields.io/badge/mail-contact-blue?logo=mailbox.org&logoColor=blue"/>
   </a>
-  <a href="https://tuportafolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://github.com/emilianocortinas/portafolio" target="_blank">
+    <img src="https://img.shields.io/badge/protafolio-proyectos-yellow?logo=dask&logoColor=yellow"/>
   </a>
 </p>
 
